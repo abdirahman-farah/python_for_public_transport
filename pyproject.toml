@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "python_for_public_transport"
-version = "1.0.0"
+version = "1.0.1"
 description = "A presentation for Kiwi PyCon 2019"
 authors = ["Alex Raichev <araichev@mrcagney.com>"]
 license = "MIT"
