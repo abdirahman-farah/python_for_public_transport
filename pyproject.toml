@@ -6,9 +6,9 @@ authors = ["Alex Raichev <araichev@mrcagney.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = "^3.7"
 jupyter = "^1.0"
-gtfstk = "^9.4"
+gtfstk = "^10"
 folium = "^0.8.3"
 
 [tool.poetry.dev-dependencies]
